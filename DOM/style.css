@@ -1,0 +1,20 @@
+body{
+    color: aquamarine;
+}
+#title{
+    color: darkred;
+    text-decoration: solid;
+}
+.btn{
+    color: darksalmon;
+    text-decoration: solid;
+    text-decoration-color: black;
+}
+.item{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration: double;
+}
+.invisible{
+    visibility: hidden;
+}
